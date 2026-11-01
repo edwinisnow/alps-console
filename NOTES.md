@@ -31,4 +31,4 @@ The current fetch hook treats any GraphQL `errors` as a total failure, so it dis
 
 
 ## UI  - Completed work
-<img src="../alps-console-2/public/UI-Screen.png">
+<img src="./public/UI-Screen.png">
